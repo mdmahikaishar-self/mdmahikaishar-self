@@ -1,5 +1,3 @@
-[![Header](https://user-images.githubusercontent.com/70408080/125334303-0d5bea00-e36d-11eb-9b47-075a2f95dbf7.jpg "Header")](https://www.linkedin.com/in/md-abdul-kader-joni-852871202/)
-
 ## Hi there,
 
 # I'm AMM Md Mahi Kaishar 👋
@@ -12,11 +10,8 @@ I'd been coding for a wheel. I started my coding journey on 2019. I'm a passiona
 
 ## 📱 Find Me On
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-abdul-kader-joni-852871202/)
-[![UpWork](https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white)](https://www.facebook.com/abd.joni.9)
-[![Facebook](https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white)](https://www.facebook.com/abd.joni.9)
-[![Twitter](https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white)](https://www.facebook.com/abd.joni.9)
-[![Instragram](https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white)](https://www.facebook.com/abd.joni.9)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ammmdmahikaisharme)
+[![Facebook](https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white)](https://www.facebook.com/ammmdmahikaisharme)
 
 <br/>
 <br/>
@@ -105,13 +100,13 @@ I'd been coding for a wheel. I started my coding journey on 2019. I'm a passiona
 
 #### C++
 
-![Windows-Forms](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Windows-Forms](https://img.shields.io/badge/WindowsForms-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ### ⚡ Database
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Sqlite](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Sqlite](https://img.shields.io/badge/Sqlite-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### 🔨 Tools
 
@@ -123,7 +118,7 @@ I'd been coding for a wheel. I started my coding journey on 2019. I'm a passiona
 #### ☁ Cloud
 
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-![Vercel](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 
 <br/>
