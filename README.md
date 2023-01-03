@@ -47,9 +47,9 @@ I'd been coding for a wheel. I started my coding journey on 2019. I'm a passiona
 
 ## My Github Stats
 
-<img width="550px" alt="AMM Md Mahi Kaishar"  src="https://github-readme-stats.vercel.app/api?username=mdmahikaisharme&theme=dark&show_icons=true"/>
+<img width="550px" alt="AMM Md Mahi Kaishar"  src="https://github-readme-stats.vercel.app/api?username=ammmdmahikaisharme&theme=dark&show_icons=true"/>
 
-[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mdmahikaisharme&card_width=550&theme=cobalt&show_icons=true)](https://github.com/mdmahikaisharme/github-readme-stats)
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ammmdmahikaisharme&card_width=550&theme=cobalt&show_icons=true)](https://github.com/mdmahikaisharme/github-readme-stats)
 
 <br/>
 <br/>
